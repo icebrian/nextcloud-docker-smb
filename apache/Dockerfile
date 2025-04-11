@@ -1,4 +1,7 @@
-FROM nextcloud:30.0.2-apache
+FROM nextcloud:31.0.3-apache
+#FROM nextcloud:31.0.1-apache
+#FROM nextcloud:30.0.7-apache
+#FROM nextcloud:30.0.2-apache
 #FROM nextcloud:29.0.9-apache
 #FROM nextcloud:28.0.12-apache
 #FROM nextcloud:27.0.2-apache
